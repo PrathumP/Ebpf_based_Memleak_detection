@@ -1,5 +1,8 @@
 # EBPF-based Memory Leak Detection
 
+![Screenshot 2024-07-10 221945](https://github.com/PrathumP/Ebpf_based_Memleak_detection/assets/115390367/bb9c7d12-2ac8-45ac-92ae-72c40f2cfaee)
+
+
 Welcome to the EBPF-based Memory Leak Detection project! This repository contains a tool designed to detect memory leaks using eBPF (Extended Berkeley Packet Filter). The tool leverages eBPF to trace memory allocations and deallocations in the kernel, providing insights into potential memory leaks.
 
 ## Table of Contents
